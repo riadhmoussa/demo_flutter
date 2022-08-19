@@ -1,16 +1,12 @@
-# flutter_demo
 
-A new Flutter project.
+- I am using 3.0.1 version of Flutter 
+- MVC Design Pattern 
+- GetX for state management , Routing , Dialog ,snackbar and Bottom Sheet
+ - Http for fetching data 
+- Centralisation handle exceptions
+NB : when i open camera and take picture the upload finish with usccess but the API dont return the url of image beceuase that i dont add url when edit or ad dnew Pet 
 
-## Getting Started
+GIF demo for the application
+![vidma_recorder_19082022_091336_001_001](https://user-images.githubusercontent.com/30259036/185580147-aa790e84-e4b9-4e9c-bcb0-40a9a118bc07.gif)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
